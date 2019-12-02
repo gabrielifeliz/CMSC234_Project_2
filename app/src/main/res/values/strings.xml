@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="new_game_bt_label">New Game</string>
+    <string name="tie">IT\'S A TIE!</string>
+    <string name="cpu_mode">Play Against Computer</string>
+    <string name="developer_signature">Created by Gabriel Isaac Feliz</string>
+</resources>
